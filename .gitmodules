@@ -1,3 +1,12 @@
 [submodule "lab0-environment-setup-eling007"]
 	path = lab0-environment-setup-eling007
 	url = https://github.com/UCR-CS153-Summer-2024/lab0-environment-setup-eling007.git
+[submodule "lab1-fun-with-system-calls-eling007"]
+	path = lab1-fun-with-system-calls-eling007
+	url = https://github.com/UCR-CS153-Summer-2024/lab1-fun-with-system-calls-eling007.git
+[submodule "lab2-scheduler-eling007"]
+	path = lab2-scheduler-eling007
+	url = https://github.com/UCR-CS153-Summer-2024/lab2-scheduler-eling007.git
+[submodule "lab3-shm-eling007"]
+	path = lab3-shm-eling007
+	url = https://github.com/UCR-CS153-Summer-2024/lab3-shm-eling007.git
